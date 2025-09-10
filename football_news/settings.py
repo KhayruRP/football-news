@@ -34,7 +34,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", "khayru-rafamanda-footballnews.pbp.cs.ui.ac.id"]
 CSRF_TRUSTED_ORIGINS = [
-    "http://khayru-rafamanda-footballnews.pbp.cs.ui.ac.id/"
+    "https://khayru-rafamanda-footballnews.pbp.cs.ui.ac.id/"
 ]
 
 
